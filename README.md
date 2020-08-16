@@ -1,6 +1,6 @@
 # portfolio_optimization_mc_simulation
 
-The project looks at a stock portfolio and finds the most optimal weights for each stock using mean-variance optimization, then two different portfolios are looked at: the portfolio with the highest Sharpe ratio and the portfolio with lowest risk. 
+The project looks at a stock portfolio (AMZN, BRK-B, MCD, JPM, VFINX) and finds the most optimal weights for each stock using mean-variance optimization, then two different portfolios are looked at: the portfolio with the highest Sharpe ratio and the portfolio with lowest risk. 
 
 
 ![](images/mv.png)
